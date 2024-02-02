@@ -1,0 +1,7 @@
+# Units: length:mm angle:deg time:s force:N 
+# Stage: Stufe 196
+stage;index;relative_time;date
+"Stufe 196";196;201.0409;"2024-01-29T15:37:39.360"
+# Name : Analogeingang 0
+force;untransformed;transformed
+2660.1791;0.8867;2660.1791

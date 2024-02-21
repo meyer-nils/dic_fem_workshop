@@ -4,11 +4,13 @@ This repository contains scripts for manual DIC evaluations and simulations with
 ## DIC
 ### Tensile test 
 See Jupyter notebook `tensile.ipynb`
+ 
 ![Tensile](/docs/tensile_stress_strain.png)
 
 
 ### Iosipescu shear test 
 See Jupyter notebook `shear.ipynb`
+
 ![Iosipescu](/docs/Iosipescu.png)
 
 ## FEM 

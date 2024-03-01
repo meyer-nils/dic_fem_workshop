@@ -1,7 +1,0 @@
-# Units: length:mm angle:deg time:s force:N 
-# Stage: Stufe 119
-stage;index;relative_time;date
-"Stufe 119";119;185.6409;"2024-01-29T15:37:23.960"
-# Name : Analogeingang 0
-force;untransformed;transformed
-2106.9088;0.7023;2106.9088

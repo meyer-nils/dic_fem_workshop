@@ -1,4 +1,6 @@
-# CAAPS Workshop
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/meyer-nils/dic_fem_workshop/HEAD)
+
+# DIC and FEM Workshop
 This repository contains scripts for manual DIC evaluations and simulations with scikit-fem performed at the CAAPS workshop in February 2024.
 
 ## DIC

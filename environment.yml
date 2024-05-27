@@ -1,0 +1,8 @@
+name: binder_environment
+channels:
+- conda-forge
+dependencies:
+  - python
+  - numpy
+  - ipywidgets
+  - matplotlib
